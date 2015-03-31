@@ -1,3 +1,3 @@
 <?php
-echo $_SERVER['SCRIPT_FILENAME']."aaa";
+echo $_SERVER['SCRIPT_FILENAME']."aaa1";
 ?>
